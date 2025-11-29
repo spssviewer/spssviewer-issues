@@ -1,4 +1,4 @@
-# SPSSVIEWER – Online Statistical Viewer & Analysis Tool
+# SPSSVIEWER - View & Analyze Your SPSS, STATA & CSV Files Online
 🌐 https://spssviewer.com
 
 Welcome to the official GitHub repository for **SPSSVIEWER**, a simple online tool that allows users to:
